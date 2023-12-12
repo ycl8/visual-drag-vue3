@@ -17,5 +17,6 @@
 - 画布设置
 截图：
 ![](src/assets/view.png)
+![](src/assets/m2.png)
 
 - [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
